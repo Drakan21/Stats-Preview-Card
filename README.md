@@ -1,6 +1,7 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://github.com/Drakan21/Stats-Preview-Card)
+- Solution URL: [GitHub repo solution](https://github.com/Drakan21/Stats-Preview-Card)
 
 ## My process
 
@@ -49,11 +50,10 @@ Some interesting Flexbox layout properties, such as reversing the layout directi
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - Useful documentation
+- [W3Schools basic HTML/CSS Docs](https://www.w3schools.com) - Useful documentation
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Drakan21](https://www.frontendmentor.io/profile/Drakan21)
 - Twitter - [@drakanion](https://www.twitter.com/drakanion)
 

@@ -62,8 +62,6 @@ body {
   justify-content: space-between;
   gap: 20px;
 }
-.stat {
-}
 .stathd {
   font-family: "Lexend Deca", sans-serif;
   color: hsl(0, 0%, 100%);
